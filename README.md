@@ -1,8 +1,8 @@
-# Web Bed Management - Inpatient admission forecast#
+# Project Name
 
 ### Quick summary ###
 
-We use machine learning algorithms and statistical models to predict inpatient admission in hospital.
+Project description (short)
 
 ### Project Organization ###
 ------------
