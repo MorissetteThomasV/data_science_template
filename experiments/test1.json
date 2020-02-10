@@ -1,0 +1,10 @@
+{
+    "visits": "home/vmt/raw_data_wbm/urgence_visite.csv",
+    "bloc": "daily",
+    "include_holidays": "True",
+    "weather": "None",
+    "events": "None",
+    "flu": "None",
+    "models": ["Prophet", "ARIMA"],
+    "output_visual": "True"
+}
